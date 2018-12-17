@@ -592,7 +592,7 @@
 					MjBccGFyZGlybmF0dXJhbFxxY1xwYXJ0aWdo
 					dGVuZmFjdG9yMAoKXGYwXGZzMzIgXGNmMiBc
 					Y2IzIFxleHBuZDBcZXhwbmR0dzBca2Vybmlu
-					ZzAKSnNvbldpcmVQcm90b2NvbH0=
+					ZzAKXHVwMCBKc29uV2lyZVByb3RvY29sfQ==
 					</data>
 					<key>className</key>
 					<string>Line</string>
@@ -3778,7 +3778,7 @@
 					<key>fillType</key>
 					<integer>5</integer>
 					<key>frame</key>
-					<string>{{310, 400}, {150, 40}}</string>
+					<string>{{310, 430}, {150, 40}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -5663,6 +5663,124 @@
 					<integer>0</integer>
 					<key>title</key>
 					<string>Line</string>
+					<key>userSetTitle</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>adjustmentRatioX</key>
+					<real>0.0</real>
+					<key>adjustmentRatioY</key>
+					<real>0.0</real>
+					<key>attributedTextData</key>
+					<data>
+					e1xydGYxXGFuc2lcYW5zaWNwZzkzNlxjb2Nv
+					YXJ0ZjE2NzFcY29jb2FzdWJydGYxMDAKe1xm
+					b250dGJsXGYwXGZuaWxcZmNoYXJzZXQxMzQg
+					UGluZ0ZhbmdTQy1SZWd1bGFyO30Ke1xjb2xv
+					cnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUy
+					NTU7XHJlZDEyN1xncmVlbjEyN1xibHVlMTI3
+					O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O1xj
+					c2dlbmVyaWNyZ2JcYzQ5ODA0XGM0OTgwNFxj
+					NDk4MDM7fQpccGFyZFx0eDU2MFx0eDExMjBc
+					dHgxNjgwXHR4MjI0MFx0eDI4MDBcdHgzMzYw
+					XHR4MzkyMFx0eDQ0ODBcdHg1MDQwXHR4NTYw
+					MFx0eDYxNjBcdHg2NzIwXHBhcmRpcm5hdHVy
+					YWxccWNccGFydGlnaHRlbmZhY3RvcjAKClxm
+					MFxmczM0IFxjZjIgXHVwMCBDaHJvbWUgRGV2
+					VG9vbHMgUHJvdG9jb2x9
+					</data>
+					<key>className</key>
+					<string>ResizeText</string>
+					<key>constrainAspectRatio</key>
+					<false/>
+					<key>contentFilterSpecs</key>
+					<array/>
+					<key>fillAngle</key>
+					<integer>0</integer>
+					<key>fillColor</key>
+					<string></string>
+					<key>fillGradientElements</key>
+					<array/>
+					<key>fillShadowBlur</key>
+					<real>3</real>
+					<key>fillShadowColor</key>
+					<string>0.000000:0.000000:0.000000:0.333000</string>
+					<key>fillShadowHidden</key>
+					<true/>
+					<key>fillShadowOffsetX</key>
+					<real>2</real>
+					<key>fillShadowOffsetY</key>
+					<real>2</real>
+					<key>fillType</key>
+					<integer>0</integer>
+					<key>frame</key>
+					<string>{{280, 390}, {220, 30}}</string>
+					<key>hidden</key>
+					<false/>
+					<key>identifier</key>
+					<string>6329C050-7CDB-401C-AC5E-C45E0D322B38</string>
+					<key>imageAnchorRatio</key>
+					<string>{0.5, 0.5}</string>
+					<key>imageType</key>
+					<integer>0</integer>
+					<key>locked</key>
+					<false/>
+					<key>opacity</key>
+					<real>1</real>
+					<key>rotationAngle</key>
+					<integer>0</integer>
+					<key>rotationHandleRadius</key>
+					<real>130</real>
+					<key>scaleImage</key>
+					<true/>
+					<key>stroke1Color</key>
+					<string></string>
+					<key>stroke1Enabled</key>
+					<false/>
+					<key>stroke2Color</key>
+					<string></string>
+					<key>stroke2Enabled</key>
+					<false/>
+					<key>strokeColor</key>
+					<string>0.000000:0.000000:0.000000:1.000000</string>
+					<key>strokeLineCap</key>
+					<integer>1</integer>
+					<key>strokeLineJoin</key>
+					<integer>1</integer>
+					<key>strokeLineWidth</key>
+					<real>1</real>
+					<key>strokeShadowBlur</key>
+					<real>3</real>
+					<key>strokeShadowColor</key>
+					<string>0.000000:0.000000:0.000000:0.333000</string>
+					<key>strokeShadowHidden</key>
+					<true/>
+					<key>strokeShadowOffsetX</key>
+					<real>2</real>
+					<key>strokeShadowOffsetY</key>
+					<real>2</real>
+					<key>strokeType</key>
+					<integer>3</integer>
+					<key>textAlign</key>
+					<integer>2</integer>
+					<key>textAppearanceType</key>
+					<integer>0</integer>
+					<key>textDrawOnPath</key>
+					<false/>
+					<key>textShadowBlur</key>
+					<real>5</real>
+					<key>textShadowColor</key>
+					<string>0.000000:0.000000:0.000000:0.333000</string>
+					<key>textShadowHidden</key>
+					<true/>
+					<key>textShadowOffsetX</key>
+					<real>0.0</real>
+					<key>textShadowOffsetY</key>
+					<real>0.0</real>
+					<key>textVerticalAlign</key>
+					<integer>0</integer>
+					<key>title</key>
+					<string>Text</string>
 					<key>userSetTitle</key>
 					<false/>
 				</dict>
