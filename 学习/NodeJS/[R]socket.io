@@ -10,3 +10,11 @@ server：
 client：
 1. 创建一个 Manager 去连接服务器（默认复用同 url 的 Manager），然后在上面创建 client 实例
 2. 使用 client 实例同服务器通信
+
+
+server：
+- io.on('connection') 先被走到
+- 然后是，io.of('/a').use()
+- 然后是，io.of('/a').on('connection')
+
+一个 event 可以绑定多个监听器，按绑定顺序执行
